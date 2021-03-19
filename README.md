@@ -1,27 +1,17 @@
 # SystemTTF
 A TrueType version of the "System" bitmap font.
 
-All glyphs are taken from all the vgasys.fon variations located in the Fonts folder from Windows 7/XP/10:\
- -fixedsys874.fon\
- -fixedsys1255.fon\
- -fixedsys1256.fon\
- -fixedsys1257.fon\
- -fixedsys1257.fon\
- -fixedsys.fon\
- -fixedsyse.fon\
- -fixedsysg.fon\
- -fixedsysr.fon\
- -fixedsyst.fon\
+The majority of the glyphs are taken from all the vgasys.fon variations located in the Fonts folder from Windows 7/XP/10:\
+ -vgasys874.fon (Thai Windows Codepage)\
+ -vgasys1255.fon (Hebrew Windows Codepage)\
+ -vgasys1256.fon (Arabic Windows Codepage)\
+ -vgasys1257.fon (Baldic Windows Codepage)\
+ -vgasys.fon (Western Windows Codepage)\
+ -vgasyse.fon (Europe Windows Codepage)\
+ -vgasysg.fon (Greek Windows Codepage)\
+ -vgasysr.fon (Cyrillic Windows Codepage)\
+ -vgasyst.fon (Turkish Windows Codepage)\
 
-**Currently supports:**\
- • Turkish (vgasyst.fon)\
- • Greek (vgasysg.fon)\
- • Cyrillic (vgasysr.fon)\
- • Thai (vgas874.fon)\
- • Hebrew (vgasys1255.fon)\
- • Arabic (vgas1256.fon)\
- • Baldic (vgas1257.fon)\
- 
-WARNING: Arabic only displays in isolated forms
+WARNING: Arabic only displays in isolated forms.
 # Preview
 ![Preview](/README.png)
